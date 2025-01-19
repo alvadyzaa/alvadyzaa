@@ -4,8 +4,6 @@
 
 - 🏢 I'm currently working at [Arteisca](https://instagram.com/arteisca), Aceh, Indonesia
 - ⚛️ I'm currently learning in [React](https://reactjs.org) and [Next.js](https://nextjs.org).
-- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
-- 💬 Feel free to ask me anything.
 
 [![snake](https://github.com/rezonated/rezonated/blob/main/github-contribution-grid-snake.svg)](https://alvadyzaa.github.io/bio)
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,cloudflare,nodejs,vercel)
