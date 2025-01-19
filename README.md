@@ -7,7 +7,7 @@
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
 - 💬 Feel free to ask me anything.
 
-
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cloudflare,nodejs,vercel)
 
 ####  Let's get in touch! Feel free to DM me for discussion!
 
